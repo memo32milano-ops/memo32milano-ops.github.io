@@ -1,0 +1,150 @@
+<it-IT>
+Prima versione di Mastro: livella, metro con fotocamera, pendenza, rilevatore di metalli, calcoli materiali e preventivi in PDF.
+</it-IT>
+<en-US>
+First release of Mastro: spirit level, camera tape measure, slope, metal detector, material calculators and PDF quotes.
+</en-US>
+<ar>
+الإصدار الأول من Mastro: ميزان ماء، متر بالكاميرا، قياس الميل، كاشف معادن، حساب المواد وعروض أسعار PDF.
+</ar>
+<ro>
+Prima versiune Mastro: nivelă, ruletă cu camera, pantă, detector de metale, calcul materiale și oferte PDF.
+</ro>
+<sq>
+Versioni i parë i Mastro: nivelë, metër me kamerë, pjerrësi, detektor metalesh, llogaritje materialesh dhe oferta PDF.
+</sq>
+<es-ES>
+Primera versión de Mastro: nivel, metro con cámara, pendiente, detector de metales, cálculo de materiales y presupuestos PDF.
+</es-ES>
+<fr-FR>
+Première version de Mastro : niveau, mètre avec caméra, pente, détecteur de métaux, calcul des matériaux et devis PDF.
+</fr-FR>
+<de-DE>
+Erste Version von Mastro: Wasserwaage, Kamera-Maßband, Gefälle, Metalldetektor, Materialrechner und PDF-Angebote.
+</de-DE>
+<pt-PT>
+Primeira versão do Mastro: nível, fita métrica com câmara, inclinação, detetor de metais, cálculo de materiais e orçamentos PDF.
+</pt-PT>
+<pt-BR>
+Primeira versão do Mastro: nível, trena com câmera, inclinação, detector de metais, cálculo de materiais e orçamentos em PDF.
+</pt-BR>
+<uk>
+Перша версія Mastro: рівень, рулетка з камерою, ухил, металошукач, розрахунок матеріалів і кошториси PDF.
+</uk>
+<ru-RU>
+Первая версия Mastro: уровень, рулетка с камерой, уклон, металлоискатель, расчёт материалов и сметы в PDF.
+</ru-RU>
+<pl-PL>
+Pierwsza wersja Mastro: poziomica, miarka z aparatem, spadek, wykrywacz metali, kalkulatory materiałów i wyceny PDF.
+</pl-PL>
+<bn-BD>
+Mastro-এর প্রথম সংস্করণ: লেভেল, ক্যামেরা মাপার ফিতা, ঢাল, ধাতু শনাক্তকারী, উপকরণ হিসাব ও PDF কোটেশন।
+</bn-BD>
+<ur>
+Mastro کا پہلا ورژن: لیول، کیمرہ فیتہ، ڈھلان، میٹل ڈیٹیکٹر، مٹیریل حساب اور PDF کوٹیشن۔
+</ur>
+<hi-IN>
+Mastro का पहला संस्करण: लेवल, कैमरा मापने वाला टेप, ढलान, मेटल डिटेक्टर, सामग्री गणना और PDF कोटेशन।
+</hi-IN>
+<pa>
+Mastro ਦਾ ਪਹਿਲਾ ਸੰਸਕਰਣ: ਲੈਵਲ, ਕੈਮਰਾ ਮਾਪ ਟੇਪ, ਢਲਾਣ, ਧਾਤੂ ਖੋਜੀ, ਸਮੱਗਰੀ ਗਣਨਾ ਅਤੇ PDF ਕੋਟੇਸ਼ਨ।
+</pa>
+<zh-CN>
+Mastro 首个版本：水平仪、相机测距、坡度、金属探测器、材料计算和 PDF 报价单。
+</zh-CN>
+<fil>
+Unang bersyon ng Mastro: level, camera tape measure, slope, metal detector, kalkulasyon ng materyales at PDF na quote.
+</fil>
+<si-LK>
+Mastro හි පළමු අනුවාදය: ලෙවලය, කැමරා මිනුම් පටිය, බෑවුම, ලෝහ අනාවරකය, ද්‍රව්‍ය ගණනය සහ PDF මිල ගණන්.
+</si-LK>
+<ta-IN>
+Mastro முதல் பதிப்பு: லெவல், கேமரா அளவுநாடா, சாய்வு, உலோகக் கண்டுபிடிப்பான், பொருள் கணக்கீடு மற்றும் PDF விலைப்பட்டியல்.
+</ta-IN>
+<ml-IN>
+Mastro ആദ്യ പതിപ്പ്: ലെവൽ, ക്യാമറ അളവ് ടേപ്പ്, ചരിവ്, ലോഹ ഡിറ്റക്ടർ, മെറ്റീരിയൽ കണക്ക്, PDF ക്വട്ടേഷൻ.
+</ml-IN>
+<tr-TR>
+Mastro ilk sürüm: su terazisi, kameralı metre, eğim, metal dedektörü, malzeme hesaplama ve PDF teklifler.
+</tr-TR>
+<el-GR>
+Πρώτη έκδοση του Mastro: αλφάδι, μέτρο με κάμερα, κλίση, ανιχνευτής μετάλλων, υπολογισμός υλικών και προσφορές PDF.
+</el-GR>
+<bg>
+Първа версия на Mastro: нивелир, ролетка с камера, наклон, металотърсач, изчисляване на материали и оферти в PDF.
+</bg>
+<sr>
+Прва верзија Mastro: либела, метар са камером, нагиб, детектор метала, прорачун материјала и понуде у PDF-у.
+</sr>
+<hr>
+Prva verzija Mastro: libela, metar s kamerom, nagib, detektor metala, izračun materijala i ponude u PDF-u.
+</hr>
+<mk-MK>
+Прва верзија на Mastro: либела, метар со камера, наклон, детектор за метали, пресметка на материјали и понуди во PDF.
+</mk-MK>
+<sk>
+Prvá verzia Mastro: vodováha, meter s kamerou, sklon, detektor kovov, výpočet materiálu a cenové ponuky v PDF.
+</sk>
+<cs-CZ>
+První verze Mastro: vodováha, metr s kamerou, sklon, detektor kovů, výpočet materiálu a cenové nabídky v PDF.
+</cs-CZ>
+<hu-HU>
+A Mastro első verziója: vízmérték, kamerás mérőszalag, lejtés, fémdetektor, anyagszámítás és PDF árajánlatok.
+</hu-HU>
+<nl-NL>
+Eerste versie van Mastro: waterpas, camera-meetlint, afschot, metaaldetector, materiaalberekening en PDF-offertes.
+</nl-NL>
+<sv-SE>
+Första versionen av Mastro: vattenpass, kameramåttband, lutning, metalldetektor, materialberäkning och PDF-offerter.
+</sv-SE>
+<da-DK>
+Første version af Mastro: vaterpas, kamera-målebånd, fald, metaldetektor, materialeberegning og PDF-tilbud.
+</da-DK>
+<no-NO>
+Første versjon av Mastro: vater, kamera-målebånd, fall, metalldetektor, materialberegning og PDF-tilbud.
+</no-NO>
+<fi-FI>
+Mastron ensimmäinen versio: vesivaaka, kameramittanauha, kaltevuus, metallinilmaisin, materiaalilaskurit ja PDF-tarjoukset.
+</fi-FI>
+<lt>
+Pirmoji Mastro versija: gulsčiukas, matuoklis su kamera, nuolydis, metalo detektorius, medžiagų skaičiavimas ir PDF pasiūlymai.
+</lt>
+<lv>
+Mastro pirmā versija: līmeņrādis, mērlente ar kameru, slīpums, metāla detektors, materiālu aprēķins un PDF piedāvājumi.
+</lv>
+<et>
+Mastro esimene versioon: vesilood, kaameraga mõõdulint, kalle, metallidetektor, materjalide arvutus ja PDF-pakkumised.
+</et>
+<sl>
+Prva različica Mastro: libela, meter s kamero, naklon, detektor kovin, izračun materiala in ponudbe v PDF.
+</sl>
+<fa>
+نسخه اول Mastro: تراز، متر با دوربین، شیب، فلزیاب، محاسبه مصالح و پیش‌فاکتور PDF.
+</fa>
+<iw-IL>
+הגרסה הראשונה של Mastro: פלס, סרט מדידה במצלמה, שיפוע, גלאי מתכות, חישוב חומרים והצעות מחיר PDF.
+</iw-IL>
+<ja-JP>
+Mastro 初回リリース：水準器、カメラメジャー、勾配、金属探知機、資材計算、PDF見積書。
+</ja-JP>
+<ko-KR>
+Mastro 첫 버전: 수평계, 카메라 줄자, 경사, 금속 탐지기, 자재 계산, PDF 견적서.
+</ko-KR>
+<vi>
+Phiên bản đầu tiên của Mastro: thước thủy, thước đo bằng camera, độ dốc, máy dò kim loại, tính vật liệu và báo giá PDF.
+</vi>
+<th>
+Mastro เวอร์ชันแรก: ระดับน้ำ ตลับเมตรด้วยกล้อง ความลาดเอียง เครื่องตรวจจับโลหะ คำนวณวัสดุ และใบเสนอราคา PDF
+</th>
+<id>
+Versi pertama Mastro: waterpass, meteran kamera, kemiringan, detektor logam, hitung material, dan penawaran PDF.
+</id>
+<ms>
+Versi pertama Mastro: aras, pita ukur kamera, kecerunan, pengesan logam, kiraan bahan dan sebut harga PDF.
+</ms>
+<sw>
+Toleo la kwanza la Mastro: kipimo cha usawa, utepe wa kupimia kwa kamera, mteremko, kigunduzi cha chuma, hesabu za vifaa na nukuu za PDF.
+</sw>
+<am>
+የMastro የመጀመሪያ ስሪት፦ ደረጃ መለኪያ፣ በካሜራ ሜትር፣ ተዳፋት፣ የብረት መፈለጊያ፣ የቁሳቁስ ስሌት እና PDF ዋጋ ማቅረቢያ።
+</am>
