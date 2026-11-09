@@ -1,0 +1,4 @@
+{
+  "android": {"latest": 4, "min": 0},
+  "ios": {"latest": 0, "min": 0, "url": "https://apps.apple.com/"}
+}
